@@ -1,6 +1,6 @@
 const ProductScreen = {
   render: () => {
-    return /*html*/ `<div>ProductScreen</div>`;
+    return `<div>ProductScreen</div>`;
   },
 };
 
